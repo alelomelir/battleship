@@ -1,7 +1,7 @@
 import java.util.Random;
 //import java.util.Scanner;
 
-public class Diagnostico {
+public class battleship {
 
     public static void main(String[] args) {
 
